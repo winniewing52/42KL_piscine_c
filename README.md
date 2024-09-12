@@ -20,6 +20,18 @@ c04: 85%
 
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Nothing turned in
 
+c05: 70%
+
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: Norme error | ex08: Nothing turned in
+
+c06: 100%
+
+ex00: OK | ex01: OK | ex02: OK | ex03: OK
+
+c07: 60%
+
+ex00: OK | ex01: OK | ex02: OK | ex03: KO | ex04: Nothing turned in | ex05: Nothing turned in
+
 rush00: 96%
 
 rush01: 27%

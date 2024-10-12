@@ -42,4 +42,4 @@ exam01: 10%
 
 exam02: 40%
 
-final exam:
+final exam: 36%

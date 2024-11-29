@@ -33,13 +33,3 @@ c07: 60%
 ex00: OK | ex01: OK | ex02: OK | ex03: KO | ex04: Nothing turned in | ex05: Nothing turned in
 
 rush00: 96%
-
-rush01: 27%
-
-exam00: 10%
-
-exam01: 10%
-
-exam02: 40%
-
-final exam: 36%
